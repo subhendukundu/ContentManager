@@ -1,4 +1,4 @@
-# ComponentManager
+# CoontentManager
 A content management framework to see if real time management is poosible or not with Nodejs, React and Firebase
 # Outline
 
