@@ -1,0 +1,8 @@
+{
+  "presets": ["es2015", "es2017", "react"],
+  "plugins": [
+    "transform-runtime",
+    "transform-async-to-generator",
+    "transform-react-jsx"
+  ]
+}
